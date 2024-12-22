@@ -5,7 +5,7 @@ void main(){
     int numero01, numero02, resultado;
 
     printf("Diginte o primeiro valor: ");
-    scanf("%d", &numero01);
+    scanf("%d", &numero01); //O valor que o usuario digitar vai ser passado para essa variavel
     printf("Diginte o primeiro valor: ");
     scanf("%d", &numero02);
 
